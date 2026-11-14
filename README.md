@@ -1,6 +1,6 @@
 # HR Compensation & Attrition Analysis (Excel)
 
-![dashboard](dashboard.mov)
+![dashboard](dashboard.png)
 
 ## Business Question
 Do pay and overtime explain employee attrition? Is there a gender pay gap within job levels?
