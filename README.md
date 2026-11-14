@@ -39,4 +39,4 @@ The dataset is fictional, and the findings show correlation, not causation.
 
 ## Author
 Ghala Almutairi — Payroll & Compensation Specialist | Data Analyst
-[LinkedIn](ضعي-رابط-حسابك-هنا)
+[LinkedIn](https://www.linkedin.com/in/ghalahayyal/)
